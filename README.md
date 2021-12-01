@@ -18,3 +18,7 @@ Flask 1.1 or Higher
 *The application is run from the main.py file.
 
 **Follow My LinkedIn for Stay touch with Me :-**[LinkedIn](https://www.linkedin.com/in/pandula-p-300776185/)
+
+## Examples for Movie Searches
+1) Green Lantern
+2) Deadpool
